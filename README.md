@@ -1,4 +1,4 @@
-![logo](https://github.com/roshan-Kawale/roshan-Kawale/blob/main/banner.md)
+![logo](https://github.com/roshan-Kawale/roshan-Kawale/assets/102869520/6a107bfa-121d-4a02-90ef-ea425e8082d1)
 <h1 align="center">Hi 👋, I'm Roshan Kawale</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
