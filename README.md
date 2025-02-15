@@ -4,7 +4,7 @@
 
 <img align="right" width="400" src="https://th.bing.com/th/id/R.bad0f6e71632082019dfae31be08da81?rik=353QlNiFzkyUrA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2f3%2fd%2f15259.jpg&ehk=UgMp02ytaxItX17b2a70Dadmfa1xks4A%2fNjqx%2bz1rDo%3d&risl=&pid=ImgRaw&r=0" alt="coding image">
 
-- 🌱 I’m currently learning **MERN Stack web app development**
+- 🌱 I’m **Full Stack Developer and Open Source Contributor**
 
 - 📫 How to reach me **roshankawale2003@gmail.com**
 
