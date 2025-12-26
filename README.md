@@ -1,25 +1,56 @@
-<h1 align="center">Hi 👋, I'm Roshan Kawale</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+# Hi there, I'm Roshan Kawale 👋 
 
-<img align="right" width="400" src="https://th.bing.com/th/id/R.bad0f6e71632082019dfae31be08da81?rik=353QlNiFzkyUrA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fe%2f3%2fd%2f15259.jpg&ehk=UgMp02ytaxItX17b2a70Dadmfa1xks4A%2fNjqx%2bz1rDo%3d&risl=&pid=ImgRaw&r=0" alt="coding image">
+### Software Engineer @FulzTech | Full Stack Developer | Problem Solver
 
-- 🌱 I’m **Full Stack Developer and Open Source Contributor**
+I am a Software Engineer at **Fulztech**. I specialize in building high-performance full-stack applications and have a deep passion for competitive programming and AI-driven solutions.
 
-- 📫 How to reach me **roshankawale2003@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/roshan-kawale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roshan-kawale-a45a2a229/" height="30" width="40" /></a>
-<a href="https://instagram.com/roshan_kawale?igsh=bw5xm28xogpqoxb6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/roshan_kawale?igsh=bw5xm28xogpqoxb6" height="30" width="40" /></a>
+### 🚀 Quick Overview
+
+* 🌍  Based in **Maharashtra, India**
+* 💻  Currently at **Fulztech**, working with **Flutter, Python, and Next.js** 
+* 🎓  B.E. in **Computer Science** @ Government College of Engineering, Chandrapur 
+* 🏆  **365 Days of Coding** badge on LeetCode with **500+ problems** solved across platforms 
+* ✉️  Reach me at: **roshankawale2003@gmail.com** 
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** JavaScript (ES6+), TypeScript, Python, C++, SQL (PostgreSQL) 
+* **Frontend:** React, Next.js, Flutter, Tailwind CSS, shadCN 
+* **Backend:** Node.js, Express.js, Firebase 
+* **Databases:** MongoDB, PostgreSQL, Pinecone (Vector DB) 
+* **Testing/Tools:** Jest, Supertest, AWS S3, Postman, GitHub 
+
+---
+
+### 📈 Featured Projects
+
+#### [AI Resume Parser](https://github.com/roshan-Kawale) 
+* **Stack:** Next.js, TypeScript, Pinecone, Gemini API 
+* Built an AI tool to extract structured data and perform semantic searches using vector embeddings.
+
+#### [LocalConnect Platform](https://github.com/roshan-Kawale) 
+* **Stack:** MERN Stack, Firebase, Knock, Jotai 
+* Developed a marketplace connecting local shopkeepers with customers, featuring real-time notifications and admin verification.
+
+---
+
+### 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=roshan-kawale&show_icons=true&theme=radical" alt="Roshan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-kawale&theme=radical" alt="Roshan's Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan-kawale&show_icons=true&locale=en&layout=compact" alt="roshan-kawale" /></p>
+### 🤝 Connect with Me
 
-[![An image of @roshan_kawale's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshan_kawale)](https://holopin.io/@roshan_kawale)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roshan-kawale&show_icons=true&locale=en" alt="roshan-kawale" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan-kawale&" alt="roshan-kawale" /></p>
+<p align="left">
+<a href="https://linkedin.com/in/roshan-kawale" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://roshankawale.vercel.app" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:roshankawale2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
