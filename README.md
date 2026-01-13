@@ -1,6 +1,6 @@
 # Hi there, I'm Roshan Kawale 👋 
 
-### Software Engineer @FulzTech | Full Stack Developer | Problem Solver
+### Software Engineer @FulzTech | 500+ Problem Solved @Leetcode | 1075@Codeforces
 
 I am a Software Engineer at **Fulztech**. I specialize in building high-performance full-stack applications and have a deep passion for competitive programming and AI-driven solutions.
 
